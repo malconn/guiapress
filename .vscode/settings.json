@@ -1,0 +1,10 @@
+{
+  "files.exclude": {
+      "node_modules": true,
+      ".gitignore": true,
+      "package-lock.json": true,
+      // "package.json": true,
+      "README.md":true,
+      "LICENSE":true,
+  }
+ }
